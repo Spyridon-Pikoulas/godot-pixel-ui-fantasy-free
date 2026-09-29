@@ -3,6 +3,13 @@
 **A free RPG pixel-art GUI theme for Godot 4, and 9-slice PNGs for any engine.** Set it in Project
 Settings and every Button, slider, tab, checkbox and window in your game takes it on.
 
+### Want more?
+
+**[Pixel UI Fantasy](https://heyheythere.itch.io/pixel-ui-fantasy)** has six themes (parchment,
+leather, iron, gilded, elven and arcane) and 53 icons (weapons, armour, rings, amulets, food,
+herbs, spellbooks, runes, fire, frost and lightning, crowns, maps, torches and a full menu set).
+Same files and names: install it over this one.
+
 ### What's inside
 
 - **The parchment theme** as a Godot `Theme` resource: buttons (normal, hover, pressed, disabled),
@@ -17,13 +24,6 @@ Settings and every Button, slider, tab, checkbox and window in your game takes i
   Godot reads directly.
 - **Health, mana, stamina and XP bar fills**, and a mouse cursor at 1x to 4x.
 - Every piece is also a plain PNG, with its 9-slice borders in the README and in `slices.json`.
-
-### Want more?
-
-**[Pixel UI Fantasy](https://heyheythere.itch.io/pixel-ui-fantasy)** has six themes (parchment,
-leather, iron, gilded, elven and arcane) and 53 icons (weapons, armour, rings, amulets, food,
-herbs, spellbooks, runes, fire, frost and lightning, crowns, maps, torches and a full menu set).
-Same files and names: install it over this one.
 
 ### Compatibility
 

@@ -5,6 +5,11 @@ windows, rarity item slots, portrait frames, nameplates, ribbons, a parchment sc
 frames, plus coloured icons, bar fills, a cursor and the Quill bitmap font. Every image is also a
 plain PNG, with its 9-slice margins listed for any other engine.
 
+**The full pack:** **[Pixel UI Fantasy](https://heyheythere.itch.io/pixel-ui-fantasy)** has six themes (parchment,
+leather, iron, gilded, elven and arcane) and 53 icons (weapons, armour, rings, amulets, food,
+herbs, spellbooks, runes, fire, frost and lightning, crowns, maps, torches and a full menu set).
+Same files and names: install it over this one.
+
 ## Use it in Godot
 
 1. Copy `addons/pixel_ui_fantasy/` into your project.
